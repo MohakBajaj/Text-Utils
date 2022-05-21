@@ -15,7 +15,7 @@ export default function Home() {
         <meta name="copyright" content="Mohak Bajaj" />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="" />
+        <meta property="og:url" content="https://text-utils-ruddy.vercel.app/" />
         <meta property="og:title" content="Text Utils 📝" />
         <meta
           property="og:description"
@@ -23,10 +23,10 @@ export default function Home() {
         />
         <meta
           property="og:image"
-          content="/webimage.png"
+          content="https://text-utils-ruddy.vercel.app/logo.png"
         />
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="" />
+        <meta property="twitter:url" content="https://text-utils-ruddy.vercel.app/" />
         <meta property="twitter:title" content="Text Utils 📝" />
         <meta
           property="twitter:description"
@@ -34,7 +34,7 @@ export default function Home() {
         />
         <meta
           property="twitter:image"
-          content="/webimage.png"
+          content="https://text-utils-ruddy.vercel.app/logo.png"
         />
 
         <link rel="icon" href="/logo.png" />

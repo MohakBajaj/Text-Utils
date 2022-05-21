@@ -103,7 +103,7 @@ It works on all devices, Sounds good? Well there is lot more to come.
                 </div>
                 {/* Text Stats */}
                 <div className="text-stats w-full h-max flex flex-col items-center justify-center text-center">
-                    <p className="flex-row flex text-3xl font-normal">
+                    <p className="flex-row flex text-3xl font-normal select-none">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
                             className="h-10 w-10 mr-1"
@@ -120,14 +120,14 @@ It works on all devices, Sounds good? Well there is lot more to come.
                         </svg>
                         Statistics
                     </p>
-                    <div className="flex flex-col">
+                    <div className="flex flex-col select-none">
                         <p className="mt-4">{letterCount} characters</p>
                         <p className="mt-4">{wordCount} words</p>
                         <p className="mt-4">{lineCount} lines</p>
                         <p className="mt-4">{time} minutes</p>
                         <p className="mt-4">{memory} Kb</p>
                     </div>
-                    <p className="flex-row flex text-3xl font-normal mt-9">
+                    <p className="flex-row flex text-3xl font-normal mt-9 select-none">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
                             className="h-10 w-10 mr-1"

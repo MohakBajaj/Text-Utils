@@ -128,7 +128,7 @@ export default function ToolBox({ text, setText }) {
                 </div>
                 {/* Copy text */}
                 <div
-                    className="inline-flex flex-col justify-center ml-2 items-center w-28 cursor-pointer"
+                    className="inline-flex flex-col justify-center items-center w-28 cursor-pointer"
                     onClick={copyText}
                 >
                     <p>📋</p>

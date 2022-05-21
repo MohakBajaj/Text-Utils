@@ -51,7 +51,7 @@ export default function Header() {
     return (
         <div>
             <div className="flex flex-row">
-                <p className="text-4xl">
+                <p className="text-4xl select-none">
                     Text Utils 📝
                 </p>
                 <div className="absolute right-4 flex flex-row pt-2 md:pt-0">
