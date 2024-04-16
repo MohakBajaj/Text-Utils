@@ -1,3 +1,3 @@
 # Text Utils 📝
 ---
-## Demo: [Link](https://text-utils-ruddy.vercel.app/)
+Moved to @MohakBajaj/wordsmith
